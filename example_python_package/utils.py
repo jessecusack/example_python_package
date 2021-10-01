@@ -1,3 +1,5 @@
+"""Miscellaneous functions for processing VMP data."""
+
 import numpy as _np
 
 
